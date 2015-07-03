@@ -58,10 +58,10 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="baseline\" />
-    <Folder Include="recreatable" />
-    <Folder Include="updates" />
+    <Folder Include="recreatable\" />
+    <Folder Include="updates\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="recreatable\DavecRecreatableVersion.xml" />
+    <Build Include="baseline\baseline.sql" />
   </ItemGroup>
 </Project>
