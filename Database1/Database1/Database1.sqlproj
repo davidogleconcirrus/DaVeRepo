@@ -63,5 +63,6 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="baseline\baseline.sql" />
+    <Build Include="updates\Update.2.1.218.Test1.sql" />
   </ItemGroup>
 </Project>
