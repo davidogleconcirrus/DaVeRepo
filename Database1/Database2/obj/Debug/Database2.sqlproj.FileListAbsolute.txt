@@ -1,0 +1,5 @@
+C:\Users\dogle\documents\visual studio 2013\Projects\Database1\Database2\bin\Debug\Database2.dacpac
+C:\Users\dogle\documents\visual studio 2013\Projects\Database1\Database2\bin\Debug\Database2.dll
+C:\Users\dogle\documents\visual studio 2013\Projects\Database1\Database2\bin\Debug\Database2.pdb
+C:\Users\dogle\documents\visual studio 2013\Projects\Database1\Database2\obj\Debug\Database2.dll
+C:\Users\dogle\documents\visual studio 2013\Projects\Database1\Database2\obj\Debug\Database2.pdb

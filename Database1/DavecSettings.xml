@@ -1,0 +1,7 @@
+<DavecProjects CompressedOutputFolder="c:\CompressedDavecOutput" FTPServer="212.227.98.18" FTPUsername="FTP22" FTPPassword="DunDee123">
+  <DavecProject VisualStudioProjectName="Database1" ProjectID="8" LastNewDatabase="" LastUpdateDatabase="">
+    <VersionedDatabaseConnection Name="Database1_CreateNew" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=Database1_CreateNew;Integrated Security=SSPI;" />
+    <VersionedDatabaseConnection Name="Database1_UpdateExisting" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=Database1_UpdateExisting;Integrated Security=SSPI;" />
+    <VersionedDatabaseConnection Name="Database1_Tinker" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=Database1_Tinker;Integrated Security=SSPI;" />
+  </DavecProject>
+</DavecProjects>

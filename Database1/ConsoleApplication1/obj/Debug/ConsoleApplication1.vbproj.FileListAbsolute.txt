@@ -1,0 +1,4 @@
+C:\Users\dogle\Documents\Visual Studio 2013\Projects\Database1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\dogle\Documents\Visual Studio 2013\Projects\Database1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\dogle\Documents\Visual Studio 2013\Projects\Database1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+C:\Users\dogle\Documents\Visual Studio 2013\Projects\Database1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
